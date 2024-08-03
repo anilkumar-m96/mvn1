@@ -1,7 +1,7 @@
 package maven2;
 
 /**
- * Hello world Mars
+ * Hello world Mars international
  *
  */
 public class App 
